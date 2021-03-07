@@ -54,8 +54,6 @@ address:
   - line: 35132 Padova (PD)
   - line: Italy
 
-# Credits content
-
 # Build settings
 markdown: kramdown
 permalink: pretty
