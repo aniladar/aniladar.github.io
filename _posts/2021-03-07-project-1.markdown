@@ -5,7 +5,7 @@ date: 2021-03-07
 img: cabin.png
 alt: image-alt
 project-date: March 2021
-client: UniPD
+client: Start Bootstrap
 category: Multimedia Coding
 description: *******PROJECT DESCRIPTION*******
 ---
