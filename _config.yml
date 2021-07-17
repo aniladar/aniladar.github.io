@@ -4,7 +4,7 @@ email: anilaadar@gmail.com [formspree](http://formspree.io/)
 url: https://github.com/jeromelachaud/freelancer-theme
 description: "I am a M.Sc. student at the Department of Information Engineering in ICT, University of Padova."
 keywords: "your keywords, separated by commas"
-skills1: "Machine Learning Intern at Videotec s.P.a"
+skills1: "Machine Learning Intern at Videotec S.p.A."
 skills2: "M.Sc. in Information and Communication Technologies for Internet and multimedia"
 skills3: "B.Sc. in Electrical and Electronics Engineering" 
 meta_author: Adar Anıl
@@ -37,7 +37,6 @@ footer:
   copyright: Anıl Adar
   location: Location
   social: Around the Web
-  Last update: 07 March 2021
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
